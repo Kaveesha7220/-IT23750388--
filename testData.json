@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Pos_Fun_0001",
+    "input": "suba dhavasak",
+    "expected": "සුබ දවසක්",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0002",
+    "input": "mama bath kanavaa",
+    "expected": "මම බත් කනවා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0003",
+    "input": "kaaryaalayee adha godak vaeda, ee nisaa mama thavama gedhara yanagaman",
+    "expected": "කාර්යාලයේ අද ගොඩක් වැඩ, ඒ නිසා මම තවම ගෙදර යනගමන්",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0004",
+    "input": "mokakdha prashne",
+    "expected": "මොකක්ද ප්‍රශ්නෙ?",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0005",
+    "input": "meheta enna",
+    "expected": "මෙහෙට එන්න",
+    "result": "PASS"
+  },
+
+  {
+    "id": "Pos_Fun_0006",
+    "input": "api heta pansal yanavaa",
+    "expected": "අපි හෙට පන්සල් යනවා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0007",
+    "input": "api heta vaeda karannee naee",
+    "expected": "අපි හෙට වැඩ කරන්නේ නෑ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0008",
+    "input": "mata mea poth tika dhenna",
+    "expected": "මට මේ පොත් ටික දෙන්න",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0009",
+    "input": "samaavenna mata eeka karanna baee",
+    "expected": "සමාවෙන්න මට ඒක කරන්න බෑ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0010",
+    "input": "puluvan nam mata udhav karanna",
+    "expected": "පුලුවන් නම් මට උදව් කරන්න",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0011",
+    "input": "adoo ov ban",
+    "expected": "අඩෝ ඔව් බන්",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0012",
+    "input": "mama gedhara yanavaa",
+    "expected": "මම ගෙදර යනවා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0013",
+    "input": "api heta kathaa karamu",
+    "expected": "අපි හෙට කතා කරමු",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0014",
+    "input": "mata dhenna",
+    "expected": "මට දෙන්න",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0015",
+    "input": "poddakinna",
+    "expected": "පොඩ්ඩක්ඉන්න",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0016",
+    "input": "vena vena",
+    "expected": "වෙන වෙන",
+    "result": "PASS"
+  },
+
+  {
+    "id": "Pos_Fun_0017",
+    "input": "mama iiyee yahaluvan hamu vuNaa",
+    "expected": "මම ඊයේ යහලුවන් හමු වුණා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0018",
+    "input": "mama gedhara yanavaa",
+    "expected": "මම ගෙදර යනවා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0019",
+    "input": "api iilaga maasee chaarikaavak yamu",
+    "expected": "අපි ඊලග මාසේ චාරිකාවක් යමු",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0020",
+    "input": " thavama ivara naee",
+    "expected": "තවම ඉවර නෑ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0021",
+    "input": "oyaa gedhara giyaadha?",
+    "expected": "ඔයා ගෙදර ගියාද?",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0022",
+    "input": "oyaalaa kohedha innee",
+    "expected": "ඔයාලා කොහෙද ඉන්නේ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0023",
+    "input": "puluvan nam mata eeka kiyala dhenna",
+    "expected": "පුලුවන් නම් මට ඒක කියල දෙන්න",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0024",
+    "input": "mata adha online meeting ekak thiyenava zoom eken",
+    "expected": "මට අද online meeting එකක් තියෙනව zoom එකෙන්",
+    "result": "PASS"
+  },
+  {
+    "id": "Neg_Fun_0025",
+    "input": "wathura bonna",
+    "expected": "wඅතුර බොන්න",
+    "result": "FAIL"
+  },
+  {
+    "id": "Neg_Fun_0026",
+    "input": "kavadada yanne?",
+    "expected": "කවඩඩ යන්නෙ?",
+    "result": "FAIL"
+  },
+  {
+    "id": "Pos_Fun_0027",
+    "input": "kavadada tiyenne",
+    "expected": "කවඩඩ ටියෙන්නෙ",
+    "result": "FAIL"
+  },
+  {
+    "id": "Pos_Fun_0028",
+    "input": "wadata yanne kawadhaadha",
+    "expected": "wඅඩට යන්නෙ කwඅදාද",
+    "result": "FAIL"
+  },
+  {
+    "id": "Pos_Fun_0029",
+    "input": "adooo ee mokakdha",
+    "expected": "අඩෝඔ ඒ මොකක්ද",
+    "result": "FAIl"
+  },
+  {
+    "id": "Pos_Fun_0030",
+    "input": "den enavadha",
+    "expected": "den එනවද",
+    "result": "FAIL"
+  },
+  {
+    "id": "Pos_Fun_0031",
+    "input": "me bildin eka kochchara lokuida",
+    "expected": "මෙ බිල්ඩින් එක කොච්චර ලොකුඉඩ",
+    "result": "FAIL"
+  },
+  {
+    "id": "Pos_Fun_0032",
+    "input": "ada gedara yanne kiyatada",
+    "expected": "අඩ ගෙඩර යන්නෙ කියටඩ",
+    "result": "FAIL"
+  },
+  {
+    "id": "Pos_Fun_0033",
+    "input": "dan awe",
+    "expected": "ඩන් awe",
+    "result": "FAIL"
+  },
+  {
+    "id": "Pos_Fun_0034",
+    "input": "ada tinwa",
+    "expected": "අඩ ටිනwඅ",
+    "result": "FAIL"
+  }
+  
+
+]
